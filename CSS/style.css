@@ -5,3 +5,13 @@ div{
     background-color: indianred;
     border: 2px solid blueviolet;
 }
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+video{
+    height: 300px;
+    width: 400px;
+}
